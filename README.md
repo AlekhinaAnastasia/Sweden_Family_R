@@ -72,43 +72,6 @@ Last edited 02 July 2022
     -   [Discussion](#discussion)
 -   [Bibliography](#bibliography)
 
-<style>
-h1.title {
-color: #261D4C;
-font-family: Verdana;
-font-size: 36px;
-}
-
-h2 {
-color: #261D4C;
-font-family: Verdana;
-font-size: 23px;
-}
-
-h3 {
-color: #261D4C;
-font-family: Verdana;
-font-size: 18px;
-}
-
-#TOC {
-color: #261D4C;
-font-family: Verdana;
-font-size: 16px;
-border-color: #a897f9;
-}
-body {
-color: #261D4C;
-font-family: Verdana;
-background-color: #FFFFFF;
-}
-pre {
-color: #261D4C;
-font-family: Verdana;
-background-color: #FAF9FF;
-border-color: #a897f9;
-}
-</style>
 
 # Topic
 
